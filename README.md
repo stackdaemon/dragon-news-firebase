@@ -2,10 +2,10 @@
 
 ## Personal Information
 
-**Name:**     MD RIFAT HASAN
-**Email:** mdrifathasan5127@gmail.com
-**Phone:** 01914805743
-**Location:** RAJSHAHI, BANGLADESH
+**Name:**     MD RIFAT HASAN \
+**Email:** mdrifathasan5127@gmail.com\
+**Phone:** 01914805743\
+**Location:** RAJSHAHI, BANGLADESH\
 
 ------------------------------------------------------------------------
 
