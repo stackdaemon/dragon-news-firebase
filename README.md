@@ -59,5 +59,5 @@ Institute Name --- Year
 
 ## Links
 
--   GitHub: https://github.com/yourprofile\
+-   GitHub: https://github.com/stackdaemon
 -   Portfolio: your-portfolio-link
