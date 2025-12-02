@@ -2,10 +2,10 @@
 
 ## Personal Information
 
-**Name:**     \
-**Email:** your.email@example.com\
-**Phone:** 01XXXXXXXXX\
-**Location:** Your City, Country
+**Name:**     MD RIFAT HASAN
+**Email:** mdrifathasan5127@gmail.com
+**Phone:** 01914805743
+**Location:** RAJSHAHI, BANGLADESH
 
 ------------------------------------------------------------------------
 
